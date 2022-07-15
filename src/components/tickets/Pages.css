@@ -1,0 +1,14 @@
+.location, .employee {
+    background-color: rgb(149, 217, 240);
+    border: blue dashed 2px;
+    margin-bottom: 5px;
+    width: 200px
+}
+
+.product {
+    background-color: orange;
+    border: orangered dashed 2px;
+    margin-bottom: 5px;
+    width: 200px
+}
+
